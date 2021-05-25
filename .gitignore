@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Project specific
+assembler
+tests_and_outputs/*.ob
+tests_and_outputs/*.ent
+tests_and_outputs/*.ext
+screenshots/
